@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/favicon.ico"
   },
   {
-    "revision": "460fa0d08cb8c6fb87407f95b37babe6",
-    "url": "/og-share.png"
-  },
-  {
     "revision": "dce6143516539c91bcf57b4030b80c5f",
     "url": "/pepper.svg"
+  },
+  {
+    "revision": "460fa0d08cb8c6fb87407f95b37babe6",
+    "url": "/og-share.png"
   },
   {
     "revision": "ec79956c040ac87c19b711517134c10d",
