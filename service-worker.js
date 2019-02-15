@@ -26,4 +26,4 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerRoute(/.*/, workbox.strategies.networkFirst({ "networkTimeoutSeconds":5, plugins: [] }), 'GET');
+workbox.routing.registerRoute(/.*/, workbox.strategies.networkFirst({ "networkTimeoutSeconds":10, plugins: [] }), 'GET');
