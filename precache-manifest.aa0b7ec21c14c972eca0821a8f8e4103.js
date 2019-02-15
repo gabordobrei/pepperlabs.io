@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/browserconfig.xml"
   },
   {
-    "revision": "0e688569afaa05c5c623632c515d9678",
-    "url": "/favicon-16x16.png"
-  },
-  {
     "revision": "3088499e62dbb9374980877ff981b13e",
     "url": "/favicon-32x32.png"
+  },
+  {
+    "revision": "0e688569afaa05c5c623632c515d9678",
+    "url": "/favicon-16x16.png"
   },
   {
     "revision": "9e4d1d81950d1dfd0af4de9fd50d1d05",
