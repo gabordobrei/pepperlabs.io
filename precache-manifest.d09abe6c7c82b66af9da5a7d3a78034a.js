@@ -1,47 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "26176b65e1d7a3579e53",
-    "url": "/vendors.0.65e516182aa92ff9ede3.css"
+    "revision": "1068e2eac355163d7607",
+    "url": "/404.a5e133e1eefa943faf21.js"
   },
   {
-    "revision": "26176b65e1d7a3579e53",
-    "url": "/vendors.69298747b98cb774d5e8.js"
-  },
-  {
-    "revision": "636235218d19fc540683",
-    "url": "/404.a79feec86a89355d84e5.css"
-  },
-  {
-    "revision": "636235218d19fc540683",
-    "url": "/404.b608ab5774790cd7d2f7.js"
-  },
-  {
-    "revision": "e7a8a2ba03c00369f9f9",
-    "url": "/home.0d31c2aae57d50c61c8b.css"
-  },
-  {
-    "revision": "e7a8a2ba03c00369f9f9",
-    "url": "/home.f36a82ab4c1d3b20823b.js"
-  },
-  {
-    "revision": "b07d596684e269307a1319978b4364bd",
-    "url": "/android-chrome-192x192.png"
+    "revision": "aa1834decec63b4eb2b9",
+    "url": "/home.6b6f6ea2dc1047c0aadb.js"
   },
   {
     "revision": "c8972a038dda48010e18a55837b81d3e",
     "url": "/apple-touch-icon.png"
   },
   {
+    "revision": "b07d596684e269307a1319978b4364bd",
+    "url": "/android-chrome-192x192.png"
+  },
+  {
     "revision": "a493ba0aa0b8ec8068d786d7248bb92c",
     "url": "/browserconfig.xml"
   },
   {
-    "revision": "3088499e62dbb9374980877ff981b13e",
-    "url": "/favicon-32x32.png"
-  },
-  {
     "revision": "0e688569afaa05c5c623632c515d9678",
     "url": "/favicon-16x16.png"
+  },
+  {
+    "revision": "3088499e62dbb9374980877ff981b13e",
+    "url": "/favicon-32x32.png"
   },
   {
     "revision": "9e4d1d81950d1dfd0af4de9fd50d1d05",
@@ -64,16 +48,40 @@ self.__precacheManifest = [
     "url": "/site.webmanifest"
   },
   {
-    "revision": "5f5afd8835c11378253e95efb2fc1246",
-    "url": "/favicon.ico"
+    "revision": "506b0ba814680939e1a53b85313f986a",
+    "url": "/telekom.png"
+  },
+  {
+    "revision": "1df39c01c3c246c85de558bd8e27aaaf",
+    "url": "/themealplanner.png"
+  },
+  {
+    "revision": "a3abe5d2f16c4c8513400ca6d8cbe682",
+    "url": "/chatler.png"
+  },
+  {
+    "revision": "28b1371029b79e98f1a6d638e8aa89c6",
+    "url": "/emarsys.png"
+  },
+  {
+    "revision": "acd39174d8100f3853e7d71b115eeca2",
+    "url": "/clipdis.png"
+  },
+  {
+    "revision": "dce6143516539c91bcf57b4030b80c5f",
+    "url": "/pepper.svg"
   },
   {
     "revision": "460fa0d08cb8c6fb87407f95b37babe6",
     "url": "/og-share.png"
   },
   {
-    "revision": "dce6143516539c91bcf57b4030b80c5f",
-    "url": "/pepper.svg"
+    "revision": "78bb8b402ecdcf168183ea7e99b6bc83",
+    "url": "/supercharge.png"
+  },
+  {
+    "revision": "5f5afd8835c11378253e95efb2fc1246",
+    "url": "/favicon.ico"
   },
   {
     "revision": "ec79956c040ac87c19b711517134c10d",
