@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/404.a5e133e1eefa943faf21.js"
   },
   {
-    "revision": "aa1834decec63b4eb2b9",
-    "url": "/home.6b6f6ea2dc1047c0aadb.js"
-  },
-  {
-    "revision": "c8972a038dda48010e18a55837b81d3e",
-    "url": "/apple-touch-icon.png"
+    "revision": "751e21131636e9d4bec2",
+    "url": "/home.171fa1258517940c3078.js"
   },
   {
     "revision": "b07d596684e269307a1319978b4364bd",
     "url": "/android-chrome-192x192.png"
+  },
+  {
+    "revision": "c8972a038dda48010e18a55837b81d3e",
+    "url": "/apple-touch-icon.png"
   },
   {
     "revision": "a493ba0aa0b8ec8068d786d7248bb92c",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/logo-grayscale.svg"
   },
   {
-    "revision": "b336df83319c4cd8e0391adcdce7a8ae",
-    "url": "/logo.svg"
-  },
-  {
     "revision": "4dc0634f1ce1f57627321f178e15d74a",
     "url": "/mstile-150x150.png"
+  },
+  {
+    "revision": "b336df83319c4cd8e0391adcdce7a8ae",
+    "url": "/logo.svg"
   },
   {
     "revision": "92bd5f0b31d0f2470a2844e7c9f85ad4",
@@ -56,6 +56,10 @@ self.__precacheManifest = [
     "url": "/themealplanner.png"
   },
   {
+    "revision": "acd39174d8100f3853e7d71b115eeca2",
+    "url": "/clipdis.png"
+  },
+  {
     "revision": "a3abe5d2f16c4c8513400ca6d8cbe682",
     "url": "/chatler.png"
   },
@@ -64,8 +68,8 @@ self.__precacheManifest = [
     "url": "/emarsys.png"
   },
   {
-    "revision": "acd39174d8100f3853e7d71b115eeca2",
-    "url": "/clipdis.png"
+    "revision": "5f5afd8835c11378253e95efb2fc1246",
+    "url": "/favicon.ico"
   },
   {
     "revision": "dce6143516539c91bcf57b4030b80c5f",
@@ -78,10 +82,6 @@ self.__precacheManifest = [
   {
     "revision": "78bb8b402ecdcf168183ea7e99b6bc83",
     "url": "/supercharge.png"
-  },
-  {
-    "revision": "5f5afd8835c11378253e95efb2fc1246",
-    "url": "/favicon.ico"
   },
   {
     "revision": "ec79956c040ac87c19b711517134c10d",
