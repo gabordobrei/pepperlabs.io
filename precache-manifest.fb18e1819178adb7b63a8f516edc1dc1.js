@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "194577a7e20bdcc7afbb718f502c134c",
+    "url": "/.DS_Store"
+  },
+  {
     "revision": "790df41c2ada468c13ae",
     "url": "/404.2e01aa17c4a4a5cb5abf.css"
   },
@@ -18,6 +22,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8972a038dda48010e18a55837b81d3e",
     "url": "/apple-touch-icon.png"
+  },
+  {
+    "revision": "f93f0679c49aef5c9b602a648607c4e1",
+    "url": "/bence-somogyi.png"
+  },
+  {
+    "revision": "8577d73a94ccaac2299026b7505d9465",
+    "url": "/bence-somogyi@2x.png"
   },
   {
     "revision": "a493ba0aa0b8ec8068d786d7248bb92c",
@@ -48,12 +60,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.ico"
   },
   {
-    "revision": "1bb5529f63b83eb38b21",
-    "url": "/home.2f902ac1d059f8076a43.css"
+    "revision": "89165f481d98a89f563002797ab46c23",
+    "url": "/gabor-dobrei.png"
   },
   {
-    "revision": "1bb5529f63b83eb38b21",
+    "revision": "5cc2693a25dc440a5a7ddfaf230527c3",
+    "url": "/gabor-dobrei@2x.png"
+  },
+  {
+    "revision": "a5457316dbcc790c6503",
     "url": "/home.3bcadd5226174d6d75c1.js"
+  },
+  {
+    "revision": "a5457316dbcc790c6503",
+    "url": "/home.c8b2d9fd775cfa2992de.css"
+  },
+  {
+    "revision": "c69de8214825d4e7d9eb12fd31f06af9",
+    "url": "/judit-dobrei-rakonczai.png"
+  },
+  {
+    "revision": "100e810bba9bd4d17cc8f045b5dbf142",
+    "url": "/judit-dobrei-rakonczai@2x.png"
+  },
+  {
+    "revision": "a02cca60f8dae0acc6b5c0e0fe058529",
+    "url": "/kpmg.png"
   },
   {
     "revision": "9e4d1d81950d1dfd0af4de9fd50d1d05",
@@ -68,12 +100,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mstile-150x150.png"
   },
   {
+    "revision": "f008fb294c3586ad0d7cdaa18422da6d",
+    "url": "/nng.png"
+  },
+  {
     "revision": "460fa0d08cb8c6fb87407f95b37babe6",
     "url": "/og-share.png"
   },
   {
-    "revision": "dce6143516539c91bcf57b4030b80c5f",
+    "revision": "af278cbab167b472a4be5e0867e99165",
     "url": "/pepper.svg"
+  },
+  {
+    "revision": "6937e6deb39b9e97cd8b5413d180d2bd",
+    "url": "/richard-szabo.png"
+  },
+  {
+    "revision": "d5bfbfbcdf5b282283b02b8dbc688615",
+    "url": "/richard-szabo@2x.png"
+  },
+  {
+    "revision": "474610f6c89ad34f16f265fc8ab92d4b",
+    "url": "/richard-tamaska.png"
+  },
+  {
+    "revision": "6da72c9c7e92f8fc7cec2cbf8ec945d7",
+    "url": "/richard-tamaska@2x.png"
   },
   {
     "revision": "92bd5f0b31d0f2470a2844e7c9f85ad4",
